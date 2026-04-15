@@ -1,4 +1,4 @@
-package Core.ControlFlowStmt;
+package Core.ControlFlowStmt.PracticeQuestion;
 
 public class Breakstmt {
     public static void main(String[] args) {

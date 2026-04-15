@@ -1,4 +1,4 @@
-package Core.ControlFlowStmt;
+package Core.ControlFlowStmt.PracticeQuestion;
 
 import java.util.Scanner;
 

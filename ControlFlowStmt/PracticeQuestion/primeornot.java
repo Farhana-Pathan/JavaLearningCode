@@ -1,4 +1,4 @@
-package Core.ControlFlowStmt;
+package Core.ControlFlowStmt.PracticeQuestion;
 import java.util.Scanner;
 
 //Prime numbers are the number that comes in the table of 1 or itself 
